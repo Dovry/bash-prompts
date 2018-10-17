@@ -1,4 +1,4 @@
-Create a cool colorscheme and/or bash prompt and commit as a single file.
+# Create a cool colorscheme and/or bash prompt
 
 Where to create them:
 
@@ -10,26 +10,14 @@ Where to create them:
 
 [Option 4](https://www.kirsle.net/wizards/ps1.html)
 
-**How to apply the config to your bash console:**
+## How to participate
 
-* add the generated PS1 text to your ~/.bashrc (usually on the bottom) as so
+* fork the project
 
-* `nano ~/.bashrc` or `vim ~/.bashrc` 
+* Create a cool setup or colorscheme using the websites above
 
-* go to the bottom of the file and paste the PS1 text
+* create your file, name it `yourUsername-ps1`, if you're creating many, use `yourUsername-1-ps1` etc.
 
-`export PS1="\[\033[38;5;1m\]\u\[$(tput sgr0)\]\[\033[38;5;11m\]@\[$(tput sgr0)\]\[\033[38;5;13m\]\h\[$(tput sgr0)\]\[\033[38;5;15m\] \[$(tput sgr0)\]\[\033[38;5;92m\]\v\[$(tput sgr0)\]\[\033[38;5;186m\]:\[$(tput sgr0)\]"` 
+* create a pull request
 
-* save and exit the file
-
-* source the file
-
-`source ~/.bashrc`
-
-and your bash prompt has changed to your cool and awesome colorscheme!
-
-**naming scheme**
-
-use `yourUsername-ps1` 
-
-commit the file!
+### You've now begun your journey into the rabbit hole that is [Ricing](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing), Happy hacking!
