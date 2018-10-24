@@ -12,12 +12,12 @@ Where to create them:
 
 ## How to participate
 
-* fork the project
+* Fork the project
 
 * Create a cool setup or colorscheme using the websites above
 
-* create your file, name it `yourUsername-ps1`, if you're creating many, use `yourUsername-1-ps1` etc. and add it to the folder named 'ps1-files'
+* Create your file, name it `yourUsername-ps1`, if you're creating many, use `yourUsername-1-ps1` etc. and add it to the folder named 'ps1-files'
 
-* create a pull request
+* Create a pull request
 
 ### You've now begun your journey into the rabbit hole that is [Ricing](https://wiki.installgentoo.com/index.php/GNU/Linux_ricing), Happy hacking!
