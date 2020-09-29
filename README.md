@@ -16,7 +16,7 @@ Where to create them:
 
 * Create a cool setup or colorscheme using the websites above
 
-* Create your file, name it `yourUsername-ps1`, if you're creating many, use `yourUsername-1-ps1` etc. and add it to the folder named 'ps1-files'
+* Create your file, name it `yourUsername-ps1`, if you're creating many, use `yourUsername-1-ps1`, `yourUsername-2-ps1` etc. and add them to the folder named 'ps1-files'
 
 * Create a pull request
 
