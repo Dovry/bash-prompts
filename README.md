@@ -2,13 +2,13 @@
 
 Where to create them:
 
-[Option 1](http://bashrcgenerator.com/)
+[bashrcgenerator](http://bashrcgenerator.com/)
 
-[Option 2](https://omar.io/ps1gen/)
+[omar.io](https://omar.io/ps1gen/)
 
-[Option 3](http://ezprompt.net/)
+[ezprompt](http://ezprompt.net/)
 
-[Option 4](https://www.kirsle.net/wizards/ps1.html)
+[krisle.net](https://www.kirsle.net/wizards/ps1.html)
 
 ## How to participate
 
